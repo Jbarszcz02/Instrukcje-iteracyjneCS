@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\studia\programowanie\instrukcje iteracyjne\3. Trójkąty\3. Trójkąty\bin\Debug\net6.0\3. Trójkąty.exe
+C:\Users\USER\Documents\studia\programowanie\instrukcje iteracyjne\3. Trójkąty\3. Trójkąty\bin\Debug\net6.0\3. Trójkąty.deps.json
+C:\Users\USER\Documents\studia\programowanie\instrukcje iteracyjne\3. Trójkąty\3. Trójkąty\bin\Debug\net6.0\3. Trójkąty.runtimeconfig.json
+C:\Users\USER\Documents\studia\programowanie\instrukcje iteracyjne\3. Trójkąty\3. Trójkąty\bin\Debug\net6.0\3. Trójkąty.dll
+C:\Users\USER\Documents\studia\programowanie\instrukcje iteracyjne\3. Trójkąty\3. Trójkąty\bin\Debug\net6.0\3. Trójkąty.pdb
+C:\Users\USER\Documents\studia\programowanie\instrukcje iteracyjne\3. Trójkąty\3. Trójkąty\obj\Debug\net6.0\3. Trójkąty.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\studia\programowanie\instrukcje iteracyjne\3. Trójkąty\3. Trójkąty\obj\Debug\net6.0\3. Trójkąty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\studia\programowanie\instrukcje iteracyjne\3. Trójkąty\3. Trójkąty\obj\Debug\net6.0\3. Trójkąty.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\studia\programowanie\instrukcje iteracyjne\3. Trójkąty\3. Trójkąty\obj\Debug\net6.0\3. Trójkąty.AssemblyInfo.cs
+C:\Users\USER\Documents\studia\programowanie\instrukcje iteracyjne\3. Trójkąty\3. Trójkąty\obj\Debug\net6.0\3. Trójkąty.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\studia\programowanie\instrukcje iteracyjne\3. Trójkąty\3. Trójkąty\obj\Debug\net6.0\3. Trójkąty.dll
+C:\Users\USER\Documents\studia\programowanie\instrukcje iteracyjne\3. Trójkąty\3. Trójkąty\obj\Debug\net6.0\refint\3. Trójkąty.dll
+C:\Users\USER\Documents\studia\programowanie\instrukcje iteracyjne\3. Trójkąty\3. Trójkąty\obj\Debug\net6.0\3. Trójkąty.pdb
+C:\Users\USER\Documents\studia\programowanie\instrukcje iteracyjne\3. Trójkąty\3. Trójkąty\obj\Debug\net6.0\3. Trójkąty.genruntimeconfig.cache
+C:\Users\USER\Documents\studia\programowanie\instrukcje iteracyjne\3. Trójkąty\3. Trójkąty\obj\Debug\net6.0\ref\3. Trójkąty.dll
